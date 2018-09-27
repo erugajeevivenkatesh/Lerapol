@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lerapol</string>
+    <string name="scedulertask">Scedulertask</string>
+    <string name="ringervolume">RingerVolume</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="wifi">Wifi</string>
+    <string name="batterystate">BatteryState</string>
+    <string name="state">--</string>
+    <string name="_100">100</string>
+</resources>
